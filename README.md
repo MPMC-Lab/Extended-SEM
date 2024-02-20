@@ -1,5 +1,7 @@
 # Synthetic thermal turbulent inflow generation (Extended SEM)
 
+## This version is v0.9-beta. v1.0 will be announced later. 
+
 The extended Synthetic-Eddy Method (XSEM) offers an efficient and robust computational procedure for generating realistic thermal turbulent inflow for eddy-resolving simulations of inflow-outflow problems. Initially proposed by Jarrin in 2006, this method was extended by Oh et al. in 2019 to include thermal field fluctuations alongside turbulent ones. The XSEM combines coherent structures with prescribed mean fields, produced through an eddy-convecting process within a virtual box. This process ensures alignment of the velocity component and temperature fluctuations with the second-order statistics of turbulent thermal boundary layers.
 
 ## Authors
